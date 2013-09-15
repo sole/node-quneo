@@ -1,6 +1,6 @@
 {
-  "name": "renoise",
-  "description": "Module to work with Renoise songs",
+  "name": "quneo",
+  "description": "Module to work with QuNeo controllers",
   "version": "0.0.1",
   "main": "src/quneo.js",
   "homepage": "https://github.com/sole/node-quneo",
