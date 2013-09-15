@@ -1,0 +1,23 @@
+{
+  "name": "renoise",
+  "description": "Module to work with Renoise songs",
+  "version": "0.0.1",
+  "main": "src/quneo.js",
+  "homepage": "https://github.com/sole/node-quneo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sole/node-quneo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sole/node-quneo/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": "https://github.com/sole/node-quneo/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "hardware, midi, messages, osc, controller, music"
+  ]
+}
